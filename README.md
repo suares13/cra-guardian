@@ -1,4 +1,4 @@
-# 🛡️ CRA-Guardian: SBOM & Compliance Auditor
+<h1 align="center">🛡️ CRA-Guardian: SBOM & Compliance Auditor</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python Version">
