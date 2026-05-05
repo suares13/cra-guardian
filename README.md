@@ -10,7 +10,7 @@
 
 ## 📖 Sobre a Origem do Projeto
 
-Este projeto foi desenvolvido como parte prática do módulo **CRA: EL MARCADO CE DEL SOFTWARE**, integrante do curso de Ciberseguridad Aplicada da **Universidad de Salamanca (USAL)** e do projeto **CIBERIA**.
+Este é o segundo projeto da série de projetos que estou desenvolvendo como pratica do curso CIBERSEGURIDAD APLICADA: REGLAMENTOS, INTELIGENCIA Y DEFENSA. Este projeto foi desenvolvido como parte prática do módulo **CRA: EL MARCADO CE DEL SOFTWARE**, integrante do curso de Ciberseguridad Aplicada da **Universidad de Salamanca (USAL)** e do projeto **CIBERIA**.
 
 A **Cyber Resilience Act (CRA)** é a primeira regulação horizontal da União Europeia que estabelece requisitos obrigatórios de cibersegurança para produtos com elementos digitais. O objetivo central é garantir que hardware e software incorporem medidas de segurança antes de serem comercializados no mercado europeu.
 
